@@ -590,7 +590,7 @@ body {
     line-height: 1.3;
 }
 
-.calendar-text p {font-size: 30px;display: flex;margin-bottom: 40px;}
+.calendar-text p {font-size: 30px;font-weight: 600;;display: flex;margin-bottom: 40px;}
 
 .calendar-features {
     display: flex;
@@ -972,7 +972,8 @@ body {
 }
 
 .advanced-text p {
-    font-size: 18px;
+    font-size: 20px;
+    font-weight: 600;
     color: #666;
     margin-bottom: 40px;
     line-height: 1.6;
@@ -1237,7 +1238,8 @@ body {
 }
 
 .mobile-text p:first-of-type {
-    font-size: 18px;
+    font-size: 20px;
+    font-weight: 600;
     color: #666;
     margin-bottom: 30px;
     line-height: 1.6;
